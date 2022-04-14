@@ -38,7 +38,7 @@ Projeto simples de uma página que foca em conceitos de responsividade, configur
 
 ## Imagens
 
-<img src="./gitImg/127.0.0.1_5500_Projeto02_(Moto G4).png" height="auto" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./gitImg/127.0.0.1_5500_Projeto02_(iPad).png" height="400" width="auto"/>
+<img src="./gitImg/127.0.0.1_5500_Projeto02_(Moto G4).png" height="auto" width="200" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./gitImg/127.0.0.1_5500_Projeto02_(iPad).png" height="400" width="auto"/>
 
 
 ## Autor
