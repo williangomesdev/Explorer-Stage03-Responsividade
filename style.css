@@ -6,11 +6,18 @@
   text-decoration: none;
 }
 
+:root {
+  font-size: 62.5%;
+}
+
 body {
   background: #ece9fd;
-  padding: 60px 23px 66px;
+  font-size: 1.6rem;
+  padding: 6rem 2.3rem 6.6rem;
 }
 
 h1 {
   font-family: "Epilogue", sans-serif;
+  font-size: 4rem;
+  line-height: 4.8rem;
 }
