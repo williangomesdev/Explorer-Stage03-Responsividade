@@ -38,14 +38,8 @@ Projeto simples de uma página que foca em conceitos de responsividade, configur
 
 ## Imagens
 
-<div style="width:100%;display:flex;flex-direction:column;justify-content:center;align-items:center;gap:50px;margin:20px auto;">
-<div>
-<img src="./gitImg/127.0.0.1_5500_Projeto02_(Moto G4).png" height="auto" width="200"/>		
-</div>
-<div>
-<img src="./gitImg/127.0.0.1_5500_Projeto02_(iPad).png" height="400" width="auto"/>	
-</div>
-</div>
+<img src="./gitImg/127.0.0.1_5500_Projeto02_(Moto G4).png" height="auto" width="200"/>	|	<img src="./gitImg/127.0.0.1_5500_Projeto02_(iPad).png" height="400" width="auto"/>	|
+
 
 ## Autor
 
