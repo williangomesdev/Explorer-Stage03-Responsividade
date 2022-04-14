@@ -39,7 +39,7 @@ Projeto simples de uma página que foca em conceitos de responsividade, configur
 ## Imagens
 
 <div style="display:flex;flex-direction:column;gap:20px;margin-bottom:20px;">
-<div style="width:300px">
+<div style="width:200px">
 <img src="./gitImg/127.0.0.1_5500_Projeto02_(Moto G4).png" width="100%" height="100%"/>
 </div>
 <img src="./gitImg/127.0.0.1_5500_Projeto02_(iPad).png"/>
