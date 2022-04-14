@@ -14,10 +14,39 @@ body {
   background: #ece9fd;
   font-size: 1.6rem;
   padding: 6rem 2.3rem 6.6rem;
+  font-family: "Epilogue", sans-serif;
 }
 
-h1 {
-  font-family: "Epilogue", sans-serif;
+main p:nth-of-type(1) {
+  color: #7158ef;
+  text-transform: uppercase;
+  letter-spacing: 0.3rem;
+  line-height: 3.2rem;
+  margin-bottom: 1.7rem;
+}
+
+main h1 {
   font-size: 4rem;
   line-height: 4.8rem;
+  color: #090039;
+  margin-bottom: 1.5rem;
+}
+
+main p:nth-of-type(2) {
+  color: rgba(10, 0, 57, 0.64);
+  line-height: 3.2rem;
+  margin-bottom: 3.2rem;
+}
+
+a {
+  color: #090039;
+  transition: filter 0.2s linear;
+}
+
+a:hover{
+  filter: brightness(1);
+}
+
+ul {
+  margin-top: 7.2rem;
 }
