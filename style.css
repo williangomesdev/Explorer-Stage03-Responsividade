@@ -2,4 +2,15 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+
+body {
+  background: #ece9fd;
+  padding: 60px 23px 66px;
+}
+
+h1 {
+  font-family: "Epilogue", sans-serif;
 }
