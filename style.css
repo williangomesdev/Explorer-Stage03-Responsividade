@@ -17,16 +17,22 @@ body {
   font-family: "Epilogue", sans-serif;
 }
 
+main{
+  max-width: 33rem;
+  margin: 0 auto;
+}
+
 main p:nth-of-type(1) {
   color: #7158ef;
   text-transform: uppercase;
-  letter-spacing: 0.3rem;
+  letter-spacing: 3px;
   line-height: 3.2rem;
   margin-bottom: 1.7rem;
 }
 
 main h1 {
   font-size: 4rem;
+  font-weight: 800;
   line-height: 4.8rem;
   color: #090039;
   margin-bottom: 1.5rem;
@@ -43,10 +49,23 @@ a {
   transition: filter 0.2s linear;
 }
 
-a:hover{
+a:hover {
   filter: brightness(1);
 }
 
 ul {
   margin-top: 7.2rem;
+  color: #090039;
+}
+
+ul li {
+  font-weight: 700;
+  font-size: 2.4rem;
+  line-height: 3.2rem;width: 25.7rem;display: flex;gap: 3.8rem;
+}
+ul li span {
+  font-weight: 800;
+  font-size: 7.2rem;
+  line-height: 8rem;
+  letter-spacing: -2px;
 }
