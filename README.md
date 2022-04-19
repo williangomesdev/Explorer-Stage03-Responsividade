@@ -12,7 +12,7 @@
 </p>
 
 <h4 align="center">
-	Status: 🚀 Finished
+	Status: 🚀 Finalizado
 </h4>
 
 <p align="center">
